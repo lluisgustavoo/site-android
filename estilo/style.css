@@ -48,6 +48,7 @@ header > p {
     font-weight: normal;
     color: white;
     margin: auto;
+    padding-bottom: 20px;
     max-width: 450px;
     padding-left: 5px;
     padding-right: 5px;
